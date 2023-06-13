@@ -1,0 +1,10 @@
+* tfm
+
+A TeX Font Metrics library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/didierverna/tfm.git   |
+| commit  | bad0fcc  |
+| systems | tfm |
+|---------+-------------------------------------------|
+
