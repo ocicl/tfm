@@ -2,8 +2,8 @@
 
 A TeX Font Metrics library for Common Lisp
 
-|---------+--------------------------------------------|
-| source  | git:https://github.com/didierverna/tfm.git |
-| commit  | bad0fcc                                    |
-| systems | (net.didierverna.tfm.setup net.didierverna.tfm.core net.didierverna.tfm) |
-|---------+--------------------------------------------|
+|---------+------------------------------------------------------------------------|
+| source  | git:https://github.com/didierverna/tfm.git                             |
+| commit  | bad0fcc                                                                |
+| systems | net.didierverna.tfm.setup net.didierverna.tfm.core net.didierverna.tfm |
+|---------+------------------------------------------------------------------------|
