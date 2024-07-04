@@ -4,6 +4,6 @@ A TeX Font Metrics library for Common Lisp
 
 |---------+------------------------------------------------------------------------|
 | source  | git:https://github.com/didierverna/tfm.git                             |
-| commit  | 515ee5c                                                                |
+| commit  | 5c73fb8                                                                |
 | systems | net.didierverna.tfm.setup net.didierverna.tfm.core net.didierverna.tfm |
 |---------+------------------------------------------------------------------------|
